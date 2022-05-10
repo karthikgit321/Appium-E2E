@@ -1,0 +1,5 @@
+2022-01-31 15:23:37,597 :INFO :test_createcontact :the contact karthik is created
+2022-01-31 15:57:16,332 :INFO :test_createcontact :the contact karthik is created
+2022-01-31 15:57:40,291 :INFO :test_createcontact :contact karthik is deleted
+2022-01-31 15:59:06,916 :INFO :test_createcontact :the contact karthik is created
+2022-01-31 15:59:30,075 :INFO :test_createcontact :contact karthik is deleted
