@@ -21,12 +21,13 @@ time.sleep(2)
 class Testcontacts(Baseclass):
     #to create the contact
     def test_createcontact(self):
+
         create_contact=Createcontacts(self.driver)
         delete_contact=Deletecontact(self.driver)
         log=self.get_Logger()
 
-        time.sleep(2)
-        self.driver.find_element_by_id('android:id/button2').click()
+        #time.sleep(2)
+        #self.driver.find_element_by_id('android:id/button2').click()
         time.sleep(2)
         #self.scroll(x1=728, y1=1272, x2=746, y2=565)
         #time.sleep(2)

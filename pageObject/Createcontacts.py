@@ -8,6 +8,7 @@ class Createcontacts:
 
 
     create_icon=(By.ID,'com.google.android.contacts:id/floating_action_button')
+    #com.google.android.contacts: id / floating_action_button
     select_account=(By.ID,'android:id/text1')
     input_name=(By.CLASS_NAME,'android.widget.EditText')
     input_number=(By.XPATH,"//android.widget.EditText[@text='Phone']")
